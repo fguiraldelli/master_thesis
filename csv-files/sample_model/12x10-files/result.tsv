@@ -1,0 +1,15 @@
+ID	0	1	2	3	4	5	7	10	cLabel	pLabel	cSize
+c1i2csv_cluster_0_12x10.csv	1	1	1	1	0	1	1	1	c1	i2csv_cluster_0_12x10.csv	10.0
+c2i2csv_cluster_1_12x10.csv	0	1	1	1	1	0	1	0	c2	i2csv_cluster_1_12x10.csv	9.0
+c0i2csv_cluster_2_12x10.csv	1	1	0	0	0	1	0	1	c0	i2csv_cluster_2_12x10.csv	7.0
+c4i2csv_cluster_3_12x10.csv	0	1	0	0	0	0	0	0	c4	i2csv_cluster_3_12x10.csv	4.0
+c3i2csv_cluster_3_12x10.csv	1	0	0	0	1	0	0	0	c3	i2csv_cluster_3_12x10.csv	3.0
+c2i2csv_cluster_2_12x10.csv	0	0	0	1	0	0	1	0	c2	i2csv_cluster_2_12x10.csv	2.0
+c3i2csv_cluster_2_12x10.csv	0	0	0	0	1	0	0	0	c3	i2csv_cluster_2_12x10.csv	2.0
+c1i2csv_cluster_3_12x10.csv	0	0	0	1	0	1	0	0	c1	i2csv_cluster_3_12x10.csv	2.0
+c2i2csv_cluster_3_12x10.csv	0	0	0	0	0	0	1	1	c2	i2csv_cluster_3_12x10.csv	2.0
+c0i2csv_cluster_0_12x10.csv	0	0	0	0	1	0	0	0	c0	i2csv_cluster_0_12x10.csv	2.0
+c0i2csv_cluster_1_12x10.csv	1	0	0	0	0	1	0	0	c0	i2csv_cluster_1_12x10.csv	2.0
+c1i2csv_cluster_2_12x10.csv	0	0	1	0	0	0	0	0	c1	i2csv_cluster_2_12x10.csv	1.0
+c0i2csv_cluster_3_12x10.csv	0	0	1	0	0	0	0	0	c0	i2csv_cluster_3_12x10.csv	1.0
+c1i2csv_cluster_1_12x10.csv	0	0	0	0	0	0	0	1	c1	i2csv_cluster_1_12x10.csv	1.0
