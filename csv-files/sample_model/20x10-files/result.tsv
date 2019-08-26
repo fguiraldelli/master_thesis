@@ -1,21 +1,21 @@
-ID	0	1	2	3	4	5	6	7	8	11	12	13	16	18	19	cLabel	pLabel	cSize
-c0i2csv_cluster_0_20x10.csv	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	c0	i2csv_cluster_0_20x10.csv	16.0
-c0i2csv_cluster_2_20x10.csv	0	1	1	0	0	0	1	1	1	1	0	0	1	0	1	c0	i2csv_cluster_2_20x10.csv	12.0
-c1i2csv_cluster_1_20x10.csv	1	1	1	1	0	0	1	0	0	0	0	0	0	1	1	c1	i2csv_cluster_1_20x10.csv	10.0
-c2i2csv_cluster_1_20x10.csv	0	0	0	0	1	0	0	1	0	1	1	0	1	0	0	c2	i2csv_cluster_1_20x10.csv	7.0
-c0i2csv_cluster_4_20x10.csv	0	1	0	0	0	1	1	0	1	0	0	0	0	0	1	c0	i2csv_cluster_4_20x10.csv	7.0
-c1i2csv_cluster_3_20x10.csv	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	c1	i2csv_cluster_3_20x10.csv	6.0
-c2i2csv_cluster_3_20x10.csv	0	0	0	0	1	0	0	0	1	0	1	1	1	0	0	c2	i2csv_cluster_3_20x10.csv	5.0
-c2i2csv_cluster_4_20x10.csv	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	c2	i2csv_cluster_4_20x10.csv	4.0
-c1i2csv_cluster_0_20x10.csv	0	0	0	0	1	0	0	0	0	0	1	1	0	1	0	c1	i2csv_cluster_0_20x10.csv	4.0
-c4i2csv_cluster_3_20x10.csv	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	c4	i2csv_cluster_3_20x10.csv	4.0
-c1i2csv_cluster_2_20x10.csv	1	0	0	0	1	0	0	0	0	0	1	1	0	0	0	c1	i2csv_cluster_2_20x10.csv	4.0
-c3i2csv_cluster_4_20x10.csv	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	c3	i2csv_cluster_4_20x10.csv	3.0
-c0i2csv_cluster_1_20x10.csv	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	c0	i2csv_cluster_1_20x10.csv	3.0
-c3i2csv_cluster_3_20x10.csv	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	c3	i2csv_cluster_3_20x10.csv	3.0
-c3i2csv_cluster_2_20x10.csv	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	c3	i2csv_cluster_2_20x10.csv	3.0
-c4i2csv_cluster_4_20x10.csv	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	c4	i2csv_cluster_4_20x10.csv	2.0
-c5i2csv_cluster_4_20x10.csv	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	c5	i2csv_cluster_4_20x10.csv	2.0
-c1i2csv_cluster_4_20x10.csv	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	c1	i2csv_cluster_4_20x10.csv	2.0
-c0i2csv_cluster_3_20x10.csv	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	c0	i2csv_cluster_3_20x10.csv	2.0
-c2i2csv_cluster_2_20x10.csv	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	c2	i2csv_cluster_2_20x10.csv	1.0
+ID	0	1	2	3	5	7	8	11	12	13	14	cLabel	pLabel	cSize
+c0i2csv_cluster_0_20x10.csv	0	1	1	1	1	1	1	1	0	0	1	c0	i2csv_cluster_0_20x10.csv	16.0
+c0i2csv_cluster_1_20x10.csv	1	1	1	1	0	1	0	0	1	0	1	c0	i2csv_cluster_1_20x10.csv	15.0
+c0i2csv_cluster_3_20x10.csv	1	1	0	0	0	0	0	1	0	0	1	c0	i2csv_cluster_3_20x10.csv	12.0
+c0i2csv_cluster_4_20x10.csv	0	1	0	0	0	0	1	0	0	0	1	c0	i2csv_cluster_4_20x10.csv	9.0
+c1i2csv_cluster_2_20x10.csv	0	1	0	1	1	0	1	0	0	0	0	c1	i2csv_cluster_2_20x10.csv	9.0
+c3i2csv_cluster_2_20x10.csv	0	0	0	0	0	1	0	1	0	0	1	c3	i2csv_cluster_2_20x10.csv	6.0
+c3i2csv_cluster_4_20x10.csv	1	0	0	0	0	0	0	0	1	1	0	c3	i2csv_cluster_4_20x10.csv	4.0
+c1i2csv_cluster_0_20x10.csv	1	0	0	0	0	0	0	0	1	1	0	c1	i2csv_cluster_0_20x10.csv	4.0
+c2i2csv_cluster_3_20x10.csv	0	0	0	1	0	1	0	0	1	0	0	c2	i2csv_cluster_3_20x10.csv	4.0
+c2i2csv_cluster_2_20x10.csv	1	0	0	0	0	0	0	0	1	1	0	c2	i2csv_cluster_2_20x10.csv	4.0
+c1i2csv_cluster_1_20x10.csv	0	0	0	0	1	0	1	0	0	1	0	c1	i2csv_cluster_1_20x10.csv	3.0
+c2i2csv_cluster_4_20x10.csv	0	0	0	1	0	1	0	0	0	0	0	c2	i2csv_cluster_4_20x10.csv	3.0
+c5i2csv_cluster_4_20x10.csv	0	0	0	0	0	0	0	1	0	0	0	c5	i2csv_cluster_4_20x10.csv	2.0
+c4i2csv_cluster_3_20x10.csv	0	0	0	0	0	0	1	0	0	1	0	c4	i2csv_cluster_3_20x10.csv	2.0
+c2i2csv_cluster_1_20x10.csv	0	0	0	0	0	0	0	1	0	0	0	c2	i2csv_cluster_1_20x10.csv	2.0
+c4i2csv_cluster_4_20x10.csv	0	0	0	0	1	0	0	0	0	0	0	c4	i2csv_cluster_4_20x10.csv	1.0
+c1i2csv_cluster_3_20x10.csv	0	0	1	0	0	0	0	0	0	0	0	c1	i2csv_cluster_3_20x10.csv	1.0
+c3i2csv_cluster_3_20x10.csv	0	0	0	0	1	0	0	0	0	0	0	c3	i2csv_cluster_3_20x10.csv	1.0
+c0i2csv_cluster_2_20x10.csv	0	0	1	0	0	0	0	0	0	0	0	c0	i2csv_cluster_2_20x10.csv	1.0
+c1i2csv_cluster_4_20x10.csv	0	0	1	0	0	0	0	0	0	0	0	c1	i2csv_cluster_4_20x10.csv	1.0
